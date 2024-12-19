@@ -29,3 +29,11 @@ stakingToken: The ERC-20 token that users can stake.
 owner: The owner of the contract, who can perform administrative functions.
 rewardRate: The rate at which rewards are accumulated, specified as a multiplier for time and stake amount.
 contractPaused: A boolean that tracks whether the contract is paused.
+Deployment on Testnet
+The contract has been successfully deployed on a testnet using thirdweb.com.
+You can interact with the deployed contract through MetaMask or other web3-compatible interfaces.
+Future Improvements
+More Reward Mechanisms: Implement additional reward models, such as compound rewards or multi-token staking.
+Security Audit: A full audit of the contract is recommended before deploying to mainnet to ensure its safety and functionality.
+Front-End Interface: Create a front-end interface to allow users to interact with the contract more easily.
+
